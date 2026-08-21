@@ -1,2 +1,2 @@
-# SEE--BATTERY Health Prediction 
+# SEE-BATTERY Health Prediction 
 Hi! I am Kanak Mishra, Sustainable Energy Engineering @IITK
