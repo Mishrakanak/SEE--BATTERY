@@ -1,2 +1,2 @@
-# SEE--BATTERY
-Battery SOH Prediction using ML SEE IIT KANPUR
+# SEE--BATTERY Health Prediction 
+Hi! I am Kanak Mishra, Sustainable Energy Engineering @IITK
